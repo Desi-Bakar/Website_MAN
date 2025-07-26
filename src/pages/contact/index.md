@@ -7,7 +7,7 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/kontak.jpg
+  image: /img/2.png
 office:
   tagline: Plang MAS Nurul Huda
   location: Kec.Enok Indragiri Hilir

@@ -54,7 +54,7 @@ const Navbar = ({ className }) => {
         <div className="flex items-center justify-between py-2">
           <Link className="flex items-center gap-1" to="/">
             <StaticImage
-              src="../img/Logo.Nurul.Huda.png"
+              src="../img/logonh.png"
               alt="MAS Nurul Huda Logo"
               className="w-8 h-8 sm:w-10 sm:h-10"
               layout="constrained"

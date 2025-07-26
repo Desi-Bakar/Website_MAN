@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="px-4 sm:px-6 lg:px-8">
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
-                  src="../img/Logo.Nurul.Huda.png"
+                  src="../img/logoo.png"
                   alt="Logo MAS Nurul Huda"
                   layout="fixed"
                   width={40}
