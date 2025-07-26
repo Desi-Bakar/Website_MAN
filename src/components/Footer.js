@@ -11,8 +11,8 @@ const Footer = () => {
             <div className="px-4 sm:px-6 lg:px-8">
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
-                  src="../img/logo.png"
-                  alt="Logo SMK Daarussaadah"
+                  src="../img/Logo.Nurul.Huda.png"
+                  alt="Logo MAS Nurul Huda"
                   layout="fixed"
                   width={40}
                   height={40}
@@ -82,7 +82,7 @@ const Footer = () => {
                 </Link>
               </div>
 
-              <div>
+              {/* <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
                   Kerjasama
                 </h3>
@@ -110,7 +110,7 @@ const Footer = () => {
                 >
                   Fan Page
                 </a>
-              </div>
+              </div> */}
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
@@ -131,7 +131,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © MAN Nurul Huda 2025 - All rights reserved
+            © Mas Nurul Huda 2025 - All rights reserved
           </p>
         </div>
       </div>
