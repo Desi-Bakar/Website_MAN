@@ -101,7 +101,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Depan
+              Home
             </ExactNavLink>
             <PartialNavLink
               to="/projects"

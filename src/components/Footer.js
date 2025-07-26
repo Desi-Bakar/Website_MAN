@@ -20,14 +20,14 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Daarussaadah</span>
+                  <span className="text-gray-800 font-semibold">MAS</span>
+                  <span className="text-green-700">Nurul Huda</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
-                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
+              Konsep belajar di MAS Nurul Huda Enok yang menggabungkan Tilawah, Tahfizh Qur’an, 
+              dan Pendidikan Akademik menjadikan siswa/i cepat memahami ilmu, teknologi, dan nilai-nilai Islam dalam kehidupan sehari-hari.
               </p>
             </div>
           </div>
@@ -42,7 +42,7 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Daarussaadah
+                  MAS Nurul Huda
                 </Link>
                 <Link
                   to="/"
@@ -103,7 +103,7 @@ const Footer = () => {
                   Areta Informatics College
                 </a>
                 <a
-                  href="https://facebook.com/smk-daarussaadah"
+                  href="https://facebook.com/Mas Nurul Huda"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
@@ -117,7 +117,7 @@ const Footer = () => {
                   Kontak
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +62 85300000
+                  +62 822-8746-7655
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
                   info@smk-daarussaadah.sch.id
@@ -131,7 +131,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Daarussaadah 2025 - All rights reserved
+            © MAN Nurul Huda 2025 - All rights reserved
           </p>
         </div>
       </div>
