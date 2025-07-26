@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Daarussaadah Kota Tangerang
+heading: Tentang MAS Nurul Huda
 subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
 team:
   - name: Prestasi Siswa
@@ -17,11 +17,15 @@ i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya 
 
 ## **Visi**
 
-Isi dengan visi dari SMK Daarussaadah
+“Terwujudnya Madrasah yang Beriman, Berakhlak Mulia, Berilmu Pengetahuan dan Berprestasi”
 
 ## **Misi**
 
-1. i﻿si dengan misi-misi
+1. Menanamkan nilai keimanan melalui pengamalan ajaran islam
+2. Menumbukkembangkan nilai-nilai akhlak karimah dilingkungan madrasah
+3. Melaksanakan program pembelajaran aktif, kreatif dan menyenangkan
+4. Menumbuhkan jika kreatifitas dan sportifitas dalam bidang seni dan olahraga
+
 
 ![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
 

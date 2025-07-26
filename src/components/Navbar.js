@@ -101,7 +101,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Home
+              Beranda
             </ExactNavLink>
             <PartialNavLink
               to="/projects"
