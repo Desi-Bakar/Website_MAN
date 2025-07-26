@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-// import aretanet from "../img/logo-aretanet.png"
+import aretanet from "../img/logo-aretanet.png"
 
 const NAVLINK_CLASSES =
   "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-yellow-300 md:mx-2 md:my-0"

@@ -11,9 +11,9 @@ team:
     title: SMK Daarussaadah Kota Tangerang
     image: /img/img_4974.jpg
 ---
-### **SMK Daarussaadah Berpesantren**
+### **MAS Nurul Huda**
 
-i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
+MAS Nurul Huda, mulai dari berdirinya, kegiatannya motivasinya dll.
 
 ## **Visi**
 
@@ -29,13 +29,16 @@ i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya 
 
 ![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
 
-### Jurusun Teknik Komputer Jaringan (TKJ)
+### Jurusun Ilmu Pengetahuan Sosial (IPS)
 
-Jurusan Teknik Komputer dan Jaringan (TKJ) adalah salah satu program keahlian yang ada di sekolah menengah kejuruan (SMK) yang mempelajari tentang teknologi informasi dan komunikasi terkait dengan penggunaan dan pemeliharaan perangkat keras dan perangkat lunak, serta jaringan komputer.
+urusan Ilmu Pengetahuan Sosial (IPS) adalah salah satu program peminatan yang tersedia di jenjang sekolah menengah atas (SMA/SMK) yang mempelajari berbagai aspek kehidupan sosial, ekonomi, sejarah, dan geografi dalam masyarakat. Jurusan ini berfokus pada pemahaman interaksi antar manusia dan peran individu dalam lingkungan sosial, politik, dan ekonomi.
 
-Siswa yang mengambil program TKJ akan mempelajari materi seperti pemrograman komputer, pengoperasian sistem komputer, desain dan pengembangan website, administrasi jaringan komputer, keamanan jaringan, dan pengujian perangkat lunak. Selain itu, siswa juga akan mendapatkan praktikum untuk mengasah keterampilan dan pengalaman dalam bidang teknologi informasi dan komunikasi.
+Siswa yang memilih jurusan IPS akan mempelajari materi seperti ekonomi, sosiologi, geografi, sejarah, dan kewarganegaraan. Di dalamnya, siswa akan diajak menganalisis peristiwa sosial, memahami dinamika masyarakat, serta melihat keterkaitan antara manusia dan lingkungannya secara global dan lokal. Selain pembelajaran teori, siswa juga akan dilatih untuk berpikir kritis, berargumentasi, dan memecahkan masalah sosial.
 
-Setelah lulus dari program TKJ, siswa akan memiliki keterampilan yang dibutuhkan untuk bekerja di berbagai industri yang berhubungan dengan teknologi informasi dan komunikasi, seperti:
+Setelah lulus dari jurusan IPS, siswa akan memiliki wawasan dan keterampilan yang dibutuhkan untuk melanjutkan pendidikan atau memasuki dunia kerja, khususnya di bidang sosial, pendidikan, ekonomi, dan hukum. Beberapa peluang yang bisa ditempuh lulusan IPS antara lain:
 
-1. Perusahaan teknologi, penyedia layanan internet, dan perusahaan telekomunikasi. 
-2. Selain itu, siswa juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi, seperti program sarjana di bidang teknik informatika atau teknologi informasi.
+Melanjutkan pendidikan di perguruan tinggi pada program studi seperti hukum, manajemen, ilmu komunikasi, hubungan internasional, psikologi, sosiologi, dan ilmu politik.
+
+Bekerja di instansi pemerintahan, media, lembaga sosial, pendidikan, perbankan, maupun perusahaan swasta di bidang sumber daya manusia, administrasi, dan pelayanan publik.
+
+Jurusan IPS sangat cocok bagi siswa yang memiliki minat terhadap isu-isu sosial, suka berdiskusi, memiliki rasa ingin tahu tinggi terhadap kondisi masyarakat, serta ingin berkontribusi dalam pembangunan sosial dan kemanusiaan.

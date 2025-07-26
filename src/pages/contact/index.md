@@ -9,19 +9,19 @@ contactform:
     kepada kami."
   image: /img/perpustakaan.jpg
 office:
-  tagline: Plang SMK Daarussaadah
-  location: Pasar Kemis Kota Tangerang
+  tagline: Plang MAS Nurul Huda
+  location: Kel.Enok Kec.Enok Indragiri Hilir
   address: |-
-    SMK Daarussaadah
+    MAS Nurul Huda
 
-    Kota
+    Indragiri Hilir
 
-    Tangerang
+    Riau
   phone: |-
     Email: info@smk-daarussaadah.sch.id
 
     Phone: 0853000000
 
     Senin s.d Sabtu 08.00 -14.00 Wib.
-  image: /img/smk-daarussaadah.jpg
+  image: /img/FotoMAS-NH.jpg
 ---

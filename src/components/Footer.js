@@ -82,7 +82,7 @@ const Footer = () => {
                 </Link>
               </div>
 
-              {/* <div>
+              <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
                   Kerjasama
                 </h3>
@@ -110,7 +110,7 @@ const Footer = () => {
                 >
                   Fan Page
                 </a>
-              </div> */}
+              </div>
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
