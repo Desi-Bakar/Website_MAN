@@ -7,10 +7,10 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/perpustakaan.jpg
+  image: /img/kontak.jpg
 office:
   tagline: Plang MAS Nurul Huda
-  location: Kel.Enok Kec.Enok Indragiri Hilir
+  location: Kec.Enok Indragiri Hilir
   address: |-
     MAS Nurul Huda
 
@@ -18,9 +18,9 @@ office:
 
     Riau
   phone: |-
-    Email: info@smk-daarussaadah.sch.id
+    Email: madrasahaliyah.nurulhuda764@gmail.com
 
-    Phone: 0853000000
+    Phone: +62 822-8746-7655
 
     Senin s.d Sabtu 08.00 -14.00 Wib.
   image: /img/FotoMAS-NH.jpg

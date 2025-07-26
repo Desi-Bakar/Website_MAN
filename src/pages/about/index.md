@@ -4,12 +4,12 @@ title: Tentang Kami
 heading: Tentang MAS Nurul Huda
 subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
 team:
-  - name: Prestasi Siswa
-    image: /img/img_2393.jpg
-    title: SMK Daarussaadah Kota Tangerang
-  - name: Kegiatan Siswa
-    title: SMK Daarussaadah Kota Tangerang
-    image: /img/img_4974.jpg
+  - name: Prestasi Siswa - Duta Remaja Inhil
+    image: /img/duta.jpg
+    title: MAS Nurul Huda Kec.Enok
+  - name: Prestasi Siswa - Puisi
+    title: MAS Nurul Huda Kec.Enok
+    image: /img/puisi.jpg
 ---
 ### **MAS Nurul Huda**
 
@@ -27,7 +27,7 @@ MAS Nurul Huda, mulai dari berdirinya, kegiatannya motivasinya dll.
 4. Menumbuhkan jika kreatifitas dan sportifitas dalam bidang seni dan olahraga
 
 
-![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
+![Perpisahan MAS Nurul Huda](/img/perpisahan.jpg "Kegiatan Perpisahan MAS Nurul Huda")
 
 ### Jurusun Ilmu Pengetahuan Sosial (IPS)
 

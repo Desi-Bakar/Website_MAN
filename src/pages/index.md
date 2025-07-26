@@ -1,17 +1,15 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussa'adah
-image: /img/tasakuran.jpg
-heading: SMK Daarussa'adah Tangerang
+title: Official Website MAS Nurul Huda
+image: /img/11.png
+heading: MAS Nurul Huda
 subheading: Berkarakter, Berprestasi dan Berpesantren
 about:
   heading: Siapa Kami
-  description: Kami adalah lembaga pendidikan vokasi SMK Daarussa'adah yang
-    berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
-    bersaing di dunia industri dan bisnis.
+  description: MAS Nurul Huda adalah lembaga pendidikan Islam jenjang menengah atas yang berkomitmen mencetak generasi berilmu, berakhlak mulia, dan siap menghadapi tantangan zaman. Kami mengintegrasikan kurikulum pendidikan umum dengan pendidikan agama, serta menanamkan nilai-nilai keislaman dalam setiap aspek pembelajaran dan kehidupan siswa. Dengan semangat tarbiyah dan pembinaan karakter, MAS Nurul Huda hadir sebagai tempat terbaik bagi para siswa untuk tumbuh menjadi pribadi yang cerdas secara intelektual, kuat secara spiritual, dan tangguh dalam berakhlak.
   image:
-    image: /img/penyerahan-piagam.jpg
-    alt: Para siswa SMK Daarussa'adah kegiatan kelas industri
+    image: /img/10.png
+    alt: MAS Nurul Huda
   button:
     url: /about
     label: Mengetahui lebih lanjut
