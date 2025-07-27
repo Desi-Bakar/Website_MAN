@@ -1,21 +1,15 @@
 ---
 templateKey: project-page
-title: Kegiatan Ekstrakurikuler Pancak Silat
+title: Kegiatan Ekstrakurikuler Menari
 date: 2025-02-20T09:51:34.522Z
 featured: true
 featuredimage:
-  image: /img/8.png
-  alt: Kegiatan Ekstrakurikuler Pancak Silat
+  image: /img/10.png
+  alt: Kegiatan Ekstrakurikuler Menari
 location: Kec.Enok, Indragiri Hilir
 ---
-Ekstrakurikuler Pencak Silat di MAS Nurul Huda merupakan salah satu kegiatan unggulan yang bertujuan membentuk siswa yang tangguh secara fisik, kuat dalam mental, dan luhur dalam akhlak. Kegiatan ini mengajarkan seni bela diri tradisional Indonesia yang kaya akan nilai-nilai budaya dan spiritual.
+Ekstrakurikuler Menari di MAS Nurul Huda merupakan wadah bagi siswa untuk mengekspresikan seni dan budaya melalui gerakan yang indah dan penuh makna. Kegiatan ini tidak hanya mengasah bakat seni tari, tetapi juga membentuk rasa percaya diri, kekompakan, dan kedisiplinan siswa.
 
-Melalui latihan rutin, siswa tidak hanya belajar teknik bela diri, tetapi juga nilai-nilai penting seperti disiplin, keberanian, kepercayaan diri, dan pengendalian diri. Selain itu, pencak silat juga menjadi media untuk menanamkan semangat kebersamaan dan sportivitas di antara siswa.
+Melalui latihan rutin, siswa diajarkan berbagai jenis tarian tradisional dan kreasi modern yang mencerminkan kekayaan budaya Indonesia. Penampilan tari sering ditampilkan dalam acara-acara sekolah maupun lomba di tingkat daerah sebagai bentuk apresiasi seni dan pelestarian budaya bangsa.
 
-Tujuan Kegiatan:
-Mengembangkan potensi dan bakat siswa dalam seni bela diri
-Menanamkan jiwa ksatria dan rasa tanggung jawab
-Menjaga kebugaran jasmani dan kesehatan mental
-Melestarikan budaya dan warisan bela diri Indonesia
-
-Ekstrakurikuler ini juga kerap mengikuti kejuaraan pencak silat tingkat lokal hingga regional, sebagai bentuk pembinaan prestasi non-akademik siswa MAS Nurul Huda.
+Dengan mengikuti ekstrakurikuler ini, siswa diharapkan mampu menjadi generasi yang kreatif, berkarakter, serta bangga akan budaya sendiri.
