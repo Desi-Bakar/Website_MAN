@@ -23,5 +23,5 @@ office:
     Phone: +62 822-8746-7655
 
     Senin s.d Sabtu 08.00 -14.00 Wib.
-  image: /img/3.jpg
+  image: /img/3.png
 ---
