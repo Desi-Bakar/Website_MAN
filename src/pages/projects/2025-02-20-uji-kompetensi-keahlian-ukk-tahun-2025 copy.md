@@ -1,21 +1,19 @@
 ---
 templateKey: project-page
-title: Kegiatan Ekstrakurikuler Pancak Silat
+title: Siswa MAS Nurul Huda Ikuti Paskibra Tingkat Kecamatan
 date: 2025-02-20T09:51:34.522Z
 featured: true
 featuredimage:
-  image: /img/8.png
-  alt: Kegiatan Ekstrakurikuler Pancak Silat
+  image: /img/4.png
+  alt: Siswa MAS Nurul Huda Ikuti Paskibra Tingkat Kecamatan
 location: Kec.Enok, Indragiri Hilir
 ---
-Ekstrakurikuler Pencak Silat di MAS Nurul Huda merupakan salah satu kegiatan unggulan yang bertujuan membentuk siswa yang tangguh secara fisik, kuat dalam mental, dan luhur dalam akhlak. Kegiatan ini mengajarkan seni bela diri tradisional Indonesia yang kaya akan nilai-nilai budaya dan spiritual.
+Salah satu bentuk partisipasi aktif siswa MAS Nurul Huda dalam kegiatan nasionalisme adalah keterlibatan mereka dalam Pasukan Pengibar Bendera (Paskibra) tingkat Kecamatan. Kegiatan ini merupakan ajang bergengsi yang melatih kedisiplinan, tanggung jawab, serta semangat cinta tanah air.
 
-Melalui latihan rutin, siswa tidak hanya belajar teknik bela diri, tetapi juga nilai-nilai penting seperti disiplin, keberanian, kepercayaan diri, dan pengendalian diri. Selain itu, pencak silat juga menjadi media untuk menanamkan semangat kebersamaan dan sportivitas di antara siswa.
+Melalui seleksi yang ketat, siswa-siswi terbaik MAS Nurul Huda terpilih untuk menjadi anggota Paskibra Kecamatan, mewakili sekolah dalam upacara peringatan Hari Kemerdekaan Republik Indonesia setiap tanggal 17 Agustus.
 
-Tujuan Kegiatan:
-Mengembangkan potensi dan bakat siswa dalam seni bela diri
-Menanamkan jiwa ksatria dan rasa tanggung jawab
-Menjaga kebugaran jasmani dan kesehatan mental
-Melestarikan budaya dan warisan bela diri Indonesia
+Kegiatan Paskibra ini melibatkan pelatihan intensif yang meliputi baris-berbaris, pembentukan karakter, fisik, serta etika kepemimpinan. Para siswa dilatih langsung oleh pelatih dari TNI/Polri dan pembina upacara resmi.
 
-Ekstrakurikuler ini juga kerap mengikuti kejuaraan pencak silat tingkat lokal hingga regional, sebagai bentuk pembinaan prestasi non-akademik siswa MAS Nurul Huda.
+Keikutsertaan dalam Paskibra bukan hanya membanggakan sekolah, tetapi juga menjadi pengalaman berharga yang membentuk mental, integritas, dan jiwa nasionalisme para siswa.
+
+MAS Nurul Huda bangga menjadi bagian dari generasi muda yang disiplin, tangguh, dan siap menjadi pemimpin masa depan bangsa.

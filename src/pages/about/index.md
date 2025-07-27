@@ -27,11 +27,11 @@ MAS Nurul Huda, mulai dari berdirinya, kegiatannya motivasinya dll.
 4. Menumbuhkan jika kreatifitas dan sportifitas dalam bidang seni dan olahraga
 
 
-![Perpisahan MAS Nurul Huda](/img/perpisahan.jpg "Kegiatan Perpisahan MAS Nurul Huda")
+![Perpisahan MAS Nurul Huda](/img/5.png "Kegiatan Perpisahan MAS Nurul Huda")
 
 ### Jurusun Ilmu Pengetahuan Sosial (IPS)
 
-urusan Ilmu Pengetahuan Sosial (IPS) adalah salah satu program peminatan yang tersedia di jenjang sekolah menengah atas (SMA/SMK) yang mempelajari berbagai aspek kehidupan sosial, ekonomi, sejarah, dan geografi dalam masyarakat. Jurusan ini berfokus pada pemahaman interaksi antar manusia dan peran individu dalam lingkungan sosial, politik, dan ekonomi.
+urusan Ilmu Pengetahuan Sosial (IPS) adalah salah satu program peminatan yang tersedia di jenjang sekolah menengah atas (SMA) yang mempelajari berbagai aspek kehidupan sosial, ekonomi, sejarah, dan geografi dalam masyarakat. Jurusan ini berfokus pada pemahaman interaksi antar manusia dan peran individu dalam lingkungan sosial, politik, dan ekonomi.
 
 Siswa yang memilih jurusan IPS akan mempelajari materi seperti ekonomi, sosiologi, geografi, sejarah, dan kewarganegaraan. Di dalamnya, siswa akan diajak menganalisis peristiwa sosial, memahami dinamika masyarakat, serta melihat keterkaitan antara manusia dan lingkungannya secara global dan lokal. Selain pembelajaran teori, siswa juga akan dilatih untuk berpikir kritis, berargumentasi, dan memecahkan masalah sosial.
 

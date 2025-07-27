@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import aretanet from "../img/logo-aretanet.png"
+import aretanet from "../img/wa.png"
 
 const NAVLINK_CLASSES =
   "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-yellow-300 md:mx-2 md:my-0"
@@ -128,15 +128,15 @@ const Navbar = ({ className }) => {
               Kontak
             </ExactNavLink>
             <a
-              href="https://www.aretanet.com"
+              href="https://wa.me/6282287467655"
               className="py-4 md:py-2 md:pl-4"
               rel="noreferrer"
               target="_blank"
             >
               <span className="icon">
-                <img src={aretanet} alt="Aretanet" width={40} height={40} />
+                <img src={aretanet} alt="WhatsApp" width={40} height={40} />
               </span>
-              {/*  <svg
+              {/* <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
                 className="h-8 w-8 hover:text-gray-600"

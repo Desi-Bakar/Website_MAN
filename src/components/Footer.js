@@ -92,23 +92,23 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  PT. Aretanet Indonesia
+                  Kantor Camat Enok
                 </a>
                 <a
-                  href="https://www.aretacollege.com/"
+                  // href="https://www.aretacollege.com/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Areta Informatics College
+                  Kantor Lurah Enok
                 </a>
                 <a
-                  href="https://facebook.com/Mas Nurul Huda"
+                  // href="https://facebook.com/Mas Nurul Huda"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Fan Page
+                  KUA Enok
                 </a>
               </div>
 
@@ -120,7 +120,7 @@ const Footer = () => {
                   +62 822-8746-7655
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smk-daarussaadah.sch.id
+                info@mas-nurulhuda.sch.id
                 </span>
               </div>
             </div>
